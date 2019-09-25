@@ -1,0 +1,12 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToManyVjezba2\OneToManyVjezba2\bin\Debug\OneToManyVjezba2.exe.config
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToManyVjezba2\OneToManyVjezba2\bin\Debug\OneToManyVjezba2.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToManyVjezba2\OneToManyVjezba2\bin\Debug\OneToManyVjezba2.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToManyVjezba2\OneToManyVjezba2\bin\Debug\EntityFramework.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToManyVjezba2\OneToManyVjezba2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToManyVjezba2\OneToManyVjezba2\bin\Debug\EntityFramework.xml
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToManyVjezba2\OneToManyVjezba2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToManyVjezba2\OneToManyVjezba2\obj\Debug\OneToManyVjezba2.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToManyVjezba2\OneToManyVjezba2\obj\Debug\OneToManyVjezba2.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToManyVjezba2\OneToManyVjezba2\obj\Debug\OneToManyVjezba2.csproj.CopyComplete
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToManyVjezba2\OneToManyVjezba2\obj\Debug\OneToManyVjezba2.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\OneToManyVjezba2\OneToManyVjezba2\obj\Debug\OneToManyVjezba2.pdb
